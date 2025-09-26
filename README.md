@@ -8,20 +8,20 @@ This project was developed as part of **CSCE Software Engineering (Group 7)**.
 ---
 
 ## 🚗 Features
-- **User Login (Prototype)**
+- User Login (Prototype)
   - Mock login with UNT EUID and password
   - Duo Push simulation (optional)
   - Secure password masking
-- **Parking Lot Listing**
+- Parking Lot Listing
   - Shows lot names/numbers and available spaces
   - Displays walking distance and calories burned
   - Dashboard + campus map layout
-- **Search and Filter**
+- Search and Filter
   - Filter by closest lot, most available spots, shortest walking time
-- **Parking Lot Details**
+- Parking Lot Details
   - Detailed lot view with availability, walking time, and calories
   - “Navigate” button opens Google Maps
-- **Admin/Simulation (Future)**
+- Admin/Simulation (Future
   - Admin panel to update availability manually
   - Simulated data refresh
 
@@ -39,10 +39,10 @@ Key screens:
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React.js (prototype UI)  
-- **Backend (future):** Python Flask / Django REST API  
-- **Database (prototype):** JSON / mock tables  
-- **Hosting:** GitHub Pages (prototype UI) or local testing  
+- Frontend:React.js (prototype UI)  
+- Backend (future): Python Flask / Django REST API  
+- Database (prototype):** JSON / mock tables  
+- **Hosting: GitHub Pages (prototype UI) or local testing  
 
 ---
 
